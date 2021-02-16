@@ -1,3 +1,0 @@
-ConverterTest.java
- Clue
- ConverterTest
